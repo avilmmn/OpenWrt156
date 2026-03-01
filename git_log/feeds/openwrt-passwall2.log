@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-6efb1d9|A-BO|Sun Mar 1 01:38:10 2026 +0800|luci: fix default config gen error of xray grpc
-b5053d4|A-BO|Sun Mar 1 01:35:09 2026 +0800|luci: update sing-box architecture mappings
-</details>
